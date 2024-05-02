@@ -1,0 +1,14 @@
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\rrhh1\progrrhh1\bin\Debug\net8.0\progrrhh1.exe
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\rrhh1\progrrhh1\bin\Debug\net8.0\progrrhh1.deps.json
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\rrhh1\progrrhh1\bin\Debug\net8.0\progrrhh1.runtimeconfig.json
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\rrhh1\progrrhh1\bin\Debug\net8.0\progrrhh1.dll
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\rrhh1\progrrhh1\bin\Debug\net8.0\progrrhh1.pdb
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\rrhh1\progrrhh1\obj\Debug\net8.0\progrrhh1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\rrhh1\progrrhh1\obj\Debug\net8.0\progrrhh1.AssemblyInfoInputs.cache
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\rrhh1\progrrhh1\obj\Debug\net8.0\progrrhh1.AssemblyInfo.cs
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\rrhh1\progrrhh1\obj\Debug\net8.0\progrrhh1.csproj.CoreCompileInputs.cache
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\rrhh1\progrrhh1\obj\Debug\net8.0\progrrhh1.dll
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\rrhh1\progrrhh1\obj\Debug\net8.0\refint\progrrhh1.dll
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\rrhh1\progrrhh1\obj\Debug\net8.0\progrrhh1.pdb
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\rrhh1\progrrhh1\obj\Debug\net8.0\progrrhh1.genruntimeconfig.cache
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\rrhh1\progrrhh1\obj\Debug\net8.0\ref\progrrhh1.dll
